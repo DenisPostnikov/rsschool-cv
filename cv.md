@@ -1,4 +1,4 @@
-# Denis Postnikov - Junior Front-End Developer
+# Denis Postnikov - Front-End Developer
 
 > Belarus, Minsk
 
@@ -10,7 +10,7 @@
 ---
 
 ## Profile
-I am a Junior Front-End developer. I work in a company that develops and supports hotel sites. I am actively developing in the field of frontend development. My strengths are diligence and hard work.
+I am a Front-End developer. I work in a company that develops and supports hotel sites. I am actively developing in the field of frontend development. My strengths are diligence and hard work.
 
 ---
 
@@ -19,7 +19,7 @@ I am a Junior Front-End developer. I work in a company that develops and support
 * **CSS Preprocessing:** SASS
 * **CSS frameworks:** Bootstrap 4, Materialize
 * **Version-control:** GIT, Github
-* **Tools:** Gulp
+* **Tools:** Gulp, Webpack
 * **Metodologies:** BEM
 * **CMS:** Bitrix, Wordpress, ModX, Joomla
 * **Graphics:** Photoshop, Figma
@@ -37,12 +37,16 @@ I am a Junior Front-End developer. I work in a company that develops and support
 ## Code examples
 1. https://denispostnikov.github.io/
 2. https://monastyrski.by/
+3. https://denispostnikov.github.io/repair-design-project/
+4. https://denispostnikov.github.io/loremipsum.net/
 
 ---
 
 ## Work Experience
-*2016-Aug-01 — Present*
-**Junior Front-End Developer @Travelline**
+*2016-Aug-01 — Present*  
+**Front-End Developer @Travelline**  
+*2020-May-10 — Present*  
+**Front-End Developer @Seologic**  
 Responsibilities: But fixing, Performance improvements sites, Deep maintenance sites,Code review.
 
 ---
