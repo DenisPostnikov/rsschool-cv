@@ -35,10 +35,10 @@ I am a Front-End developer. I work in a company that develops and supports hotel
 ---
 
 ## Code examples
-1. https://denispostnikov.github.io/
-2. https://monastyrski.by/
-3. https://denispostnikov.github.io/repair-design-project/
-4. https://denispostnikov.github.io/loremipsum.net/
+1. [https://denispostnikov.github.io/](https://denispostnikov.github.io/)
+2. [https://monastyrski.by/](https://monastyrski.by/)
+3. [https://denispostnikov.github.io/repair-design-project/](repair-design-project)
+4. [https://denispostnikov.github.io/loremipsum.net/](loremipsum.net)
 
 ---
 
