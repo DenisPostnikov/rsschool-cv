@@ -102,7 +102,7 @@ body {
     display: flex;
 }
 
-.card:not(:last-child) {
+.card {
     margin-bottom: 25px;
 }
 
@@ -119,4 +119,10 @@ body {
 .card__desc {
     padding-left: 30px;
     font-size: 18px;
+}
+
+.card__list-resp {
+    margin-left: 30px;
+    list-style: circle;
+    line-height: 25px;
 }
