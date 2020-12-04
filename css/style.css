@@ -126,3 +126,7 @@ body {
     list-style: circle;
     line-height: 25px;
 }
+
+.card__list-resp:first-of-type {
+    margin-bottom: 20px;
+}
